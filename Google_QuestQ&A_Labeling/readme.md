@@ -14,3 +14,4 @@ Apart from that my model also includes,
 Very similar to Bert model though no USE features or Crawl embeddings. I missed adding USE features, realized it few hours before the competition ends - too late. This model performed surprisingly well compared to the amount of time I spent on it. Many on LB reported this being their best model. This also had two separate models for Q & A, same loss function as for Bert. 
 
 #### Inference / Ensemble Kernels
+Inference Kernel - https://www.kaggle.com/rashmibanthia/googlequest-inference
